@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: HelloWorld Plug-in
+Bundle-SymbolicName: com.prodyna.osgi.demo.hello
+Bundle-Version: 1.0.0
+Bundle-Activator: com.prodyna.osgi.demo.hello.Activator
+Bundle-Vendor: PRODYNA
+Bundle-Localization: plugin
+Import-Package: org.osgi.framework;version="1.3.0"
